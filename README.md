@@ -21,3 +21,11 @@
 
 <br/><br/>
 
+4.	Запускаю отдельный контейнер с клиентом(pg-client) Postgres в общей сети c БД, создаю для тестов БД otus, а в ней тестовую табличку test, вставляю 2 строки:
+
+    ![4](https://github.com/Y-M-Morozova/2_homework_Morozova_Yulia/assets/153178571/63b89f4b-fb18-4458-87cf-59501afbaec2)
+
+
+<br/><br/>
+
+
