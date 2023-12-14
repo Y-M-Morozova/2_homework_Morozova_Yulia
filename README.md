@@ -28,4 +28,11 @@
 
 <br/><br/>
 
+5.	Проверяю наш отдельный контейнер:
+
+   ![5](https://github.com/Y-M-Morozova/2_homework_Morozova_Yulia/assets/153178571/1a2428ba-864e-4152-8068-99c48236a39a)
+
+   <br/><br/>
+
+   
 
