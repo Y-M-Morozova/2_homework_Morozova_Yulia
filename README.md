@@ -21,7 +21,7 @@
 
 3.	Подключаю созданную сеть pg-net к контейнеру(pg-server) сервера Postgres, версия 15, порт хоста 5432, порт контейнера 5432, монтирую ЛОКАЛЬНУЮ папку для хранения данных: /var/lib/postgresql/data:
 
-    ![3](https://github.com/Y-M-Morozova/2_homework_Morozova_Yulia/assets/153178571/18c1028a-dc40-4e27-a918-f0046f21f813)
+    ![3](https://github.com/Y-M-Morozova/2_homework_Morozova_Yulia/assets/153178571/a8699bfe-809f-4c87-ad00-16245ce1bdfd)
 
 <br/><br/>
 
