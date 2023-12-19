@@ -12,7 +12,9 @@
 <br/><br/>
 
 2.	Создаю docker-сеть pg-net:
-    ![2](https://github.com/Y-M-Morozova/2_homework_Morozova_Yulia/assets/153178571/0b15e7ca-08d3-44c3-962d-5637c1de0fc5)
+
+    ![2](https://github.com/Y-M-Morozova/2_homework_Morozova_Yulia/assets/153178571/c45b2e71-11f7-463c-92c8-c36391c1ab5d)
+
 
 <br/><br/>
 
