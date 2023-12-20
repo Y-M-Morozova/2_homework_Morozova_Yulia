@@ -8,16 +8,13 @@
 
     ![1](https://github.com/Y-M-Morozova/2_homework_Morozova_Yulia/assets/153178571/b9216a02-aede-4882-baf0-dfbbcc8838d3)
  
-
 <br/><br/>
 
 2.	Создаю docker-сеть pg-net:
 
     ![2](https://github.com/Y-M-Morozova/2_homework_Morozova_Yulia/assets/153178571/c45b2e71-11f7-463c-92c8-c36391c1ab5d)
 
-
 <br/><br/>
-
 
 3.	Подключаю созданную сеть pg-net к контейнеру(pg-server) сервера Postgres, версия 15, порт хоста 5432, порт контейнера 5432, создаю и монтирую ЛОКАЛЬНУЮ папку для хранения данных: /var/lib/postgresql/data:
 
@@ -42,6 +39,12 @@
 
     ![9](https://github.com/Y-M-Morozova/2_homework_Morozova_Yulia/assets/153178571/937460d9-9d70-41cf-86ea-be106b222049)
 
-
-
 <br/><br/>
+
+7.  А теперь я удаляю контейнер с сервером(беру его id),создаю его заново и подключаюсь снова из контейнера с клиентом к контейнеру с сервером:
+
+    ![7aa](https://github.com/Y-M-Morozova/2_homework_Morozova_Yulia/assets/153178571/baff1194-41d4-4b77-a0ac-4bc1c37e7cd5)
+
+    <br/><br/>
+
+     
