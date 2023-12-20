@@ -25,14 +25,13 @@
 
 <br/><br/>
 
-4.	Запускаю отдельный контейнер с клиентом(pg-client) Postgres в общей сети c БД, создаю для тестов БД otus, а в ней тестовую табличку test, вставляю 2 строки:
+4.	Запускаю отдельный контейнер с клиентом(pg-client) Postgres в общей сети c БД:
 
-    ![4](https://github.com/Y-M-Morozova/2_homework_Morozova_Yulia/assets/153178571/63b89f4b-fb18-4458-87cf-59501afbaec2)
-
-
+    ![4](https://github.com/Y-M-Morozova/2_homework_Morozova_Yulia/assets/153178571/57b6b620-3be5-485a-8392-22e3115b9e7b)
+  
 <br/><br/>
 
-5.	Проверяю наш отдельный контейнер:
+5.	Cоздаю для тестов БД otus, а в ней тестовую табличку test, вставляю 2 строки:
 
     ![5](https://github.com/Y-M-Morozova/2_homework_Morozova_Yulia/assets/153178571/1a2428ba-864e-4152-8068-99c48236a39a)
 
