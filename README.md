@@ -27,8 +27,8 @@
 
 4.	Запускаю отдельный контейнер с клиентом(pg-client) Postgres в общей сети c БД:
 
-    ![4](https://github.com/Y-M-Morozova/2_homework_Morozova_Yulia/assets/153178571/57b6b620-3be5-485a-8392-22e3115b9e7b)
-  
+    ![4_5](https://github.com/Y-M-Morozova/2_homework_Morozova_Yulia/assets/153178571/99435e84-2bc7-4a23-9849-32fb8de69729)
+      
 <br/><br/>
 
 5.	Cоздаю для тестов БД otus, а в ней тестовую табличку test, вставляю 2 строки:
